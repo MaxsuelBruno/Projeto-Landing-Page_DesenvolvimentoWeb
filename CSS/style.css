@@ -1,0 +1,205 @@
+body {
+    background-color: #e6e8eb;
+    font-family: "Georgia", "Times New Roman", serif;
+    color: #2d2d2d;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.atuacoes-profissionais {
+    margin-top: 40px;
+    text-align: center;
+    padding: 20px;
+}
+
+
+.atuacoes-profissionais ul {
+    padding: 0;
+    margin: 0;
+}
+
+.atuacoes-profissionais li {
+    margin: 3px ;
+}
+
+.atuacoes-profissionais {
+    margin-top: 40px;        
+    padding: 20px;
+    text-align: left;
+    width: 80;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.atuacoes-profissionais h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+header {
+    background-color: #2e4057;
+    padding: 20px;
+    
+    figcaption {
+    color: #ffffff;
+}
+}
+
+
+h1 {
+    color: #ffffff;
+}
+
+nav table {
+    margin: 20px auto;
+    background-color: #3e536d;
+    border: 2px #1f2d3d;
+}
+
+nav td {
+    padding: 10px 20px;
+    border: 1px #1f2d3d;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+button  {
+    background-color: #445d77;
+    border: 1px #2e4057;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+.tabela {
+    margin: 20px auto;
+    width: 60%;
+    border: 2px #1f2d3d;
+}
+
+.tabela th {
+    background-color: #2e4057;
+    color: #ffffff;
+    padding: 10px;
+    border: 1px #1f2d3d;
+}
+
+.tabela td {
+    background-color: #dcdfe3;
+    padding: 6px;
+    border: 1px #1f2d3d;
+    color: #2d2d2d;
+}
+
+.foto-bloco-1 {
+    width: 300px;
+    margin: 20px auto;
+    background-color: #dcdfe3;
+    border: 2px solid #2e4057;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+
+.foto-bloco-1 img {
+    width: 230px;
+    height: 270px;
+    border-radius: 6px;
+}
+
+.foto-bloco-2 {
+    width: 300px;
+    margin: 20px auto;
+    background-color: #e1e4e8;
+    border: 2px solid #1f2d3d;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+
+.foto-bloco-2 img {
+    width: 250px;
+    height: 310px;
+    border-radius: 6px;
+}
+
+.foto-bloco-3 {
+    width: 300px;
+    margin: 20px auto;
+    background-color: #e1e4e8;
+    border: 2px solid #1f2d3d;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+
+.foto-bloco-3 img {
+    width: 100%;
+    height: 200px;
+    border-radius: 6px;
+}
+
+
+
+section.contato{
+    width: 80%;
+    margin: 50px;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+footer.sobre {
+    background-color: #2e4057;
+    color: #ffffff;
+    padding: 10px;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
+
+footer.disciplinas {
+    background-color: #2e4057;
+    color: #ffffff;
+    padding: 10px;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
+
+footer.galeria {
+    background-color: #2e4057;
+    color: #ffffff;
+    padding: 10px;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
+
+footer.formacao {
+    background-color: #2e4057;
+    color: #ffffff;
+    padding: 10px;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
+
+footer {
+    background-color: #2e4057;
+    color: #ffffff;
+    padding: 10px;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
