@@ -26,7 +26,7 @@ body {
 .atuacoes-profissionais {
     margin-top: 40px;        
     padding: 20px;
-    text-align: left;
+    text-align: center;
     width: 80;
     margin-left: auto;
     margin-right: auto;
@@ -203,3 +203,4 @@ footer {
     width: 100%;
     font-size: 14px;
 }
+
