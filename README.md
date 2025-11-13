@@ -9,7 +9,7 @@ Desenvolvido por **Maxsuel Bruno** e **Pedro Neto**.
 ## 📁 Estrutura do repositório (no GitHub)
 
 ```text
-/                <- raiz do repositório (HTMLs ficam soltos aqui)
+/ 
 ├── index.html
 ├── sobre.html
 ├── formacao.html
